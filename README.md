@@ -39,12 +39,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=30px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=30px />
 </p>
-<p align="left">
 
-![Keyans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmpf&show_icons=true&theme=radical)
+<!-- ![Keyans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmpf&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burmpf&layout=compact&theme=radical)
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burmpf&layout=compact&theme=radical) -->
 
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Burmpf&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmpf&layout=compact&theme=radical" />
+</a>
