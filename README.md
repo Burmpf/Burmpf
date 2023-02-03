@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20Github!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
@@ -38,5 +40,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=30px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=30px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=30px />
-
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmpf)](https://github.com/Burmpf/github-readme-stats)
