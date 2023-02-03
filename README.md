@@ -41,4 +41,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=30px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=30px />
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmpf)](https://github.com/Burmpf/github-readme-stats)
+![Keyans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmpf&show_icons=true&theme=radical)
