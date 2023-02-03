@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20Github!&animation=fadeIn&type=waving&color=gradient&height=250&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20Github!&animation=fadeIn&type=waving&color=0:D8240E,100:0E15D8&height=250&fontAlignY=40"/>
 </p>
 <h2>Where you can find me:</h2>
 
@@ -50,5 +50,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Burmpf&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmpf&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmpf&layout=compact&theme=radical&langs_count=4" />
 </a>
+
+![Snake animation](https://github.com/Burmpf/Burmpf/blob/output/github-contribution-grid-snake.svg)
