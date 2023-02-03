@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/keyan-tabor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!-- <img src="https://media.tenor.com/CgGUXc-LDc4AAAAC/hacker-pc.gif" width=200px/> -->
-<p>
  <h2>Tools I use:</h2>
+<p align="left" >
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=30px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=30px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=30px />
