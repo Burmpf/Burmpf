@@ -39,12 +39,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=30px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=30px />
 </p>
+<p align="left">
 
-![Keyans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmpf&show_icons=true&theme=radical#gh-dark-mode-only)
+![Keyans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmpf&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burmpf&layout=compact&theme=radical#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burmpf&layout=compact&theme=radical)
 
-![Keyans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmpf&show_icons=true&theme=buefy#gh-light-mode-only)
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burmpf&layout=compact&theme=buefy#gh-light-mode-only)
 
